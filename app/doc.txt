@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=3Uy0KRPHQik&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=77
+- Hier ist ein Beispiel eines API's geschrieben in laravel8. In diesem API wird ein CRUD Beispiel
+  mir resources gezeigt. Sehr interessante Zusammensetzung und erklärt.
+- Getestet wird das Ganze mit Postman und zwar eine Online Version unter: https://www.postman.com/ 
+- Unter dieser Adresse kann man sich registrieren und so Zugang um postman zu bentzen.
